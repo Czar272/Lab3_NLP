@@ -1,0 +1,32 @@
+oracion,palabra,piezas,masa_intra_palabra (media capas/cabezas),esperado_si_uniforme,capa_con_mayor_masa_intra
+S1,aclarado,ac ##lara ##do,0.295,0.273,12
+C4,enfrente,en ##fre ##nte,0.275,0.086,12
+C3,prolongaba,pro ##long ##aba,0.269,0.06,12
+S2,lluvia,ll ##uvia,0.265,0.2,12
+C3,vajilla,va ##jil ##la,0.264,0.06,12
+S2,Todavía,Toda ##vía,0.257,0.2,12
+S2,caía,ca ##ía,0.253,0.2,12
+C3,desayuno,desa ##yu ##no,0.227,0.06,7
+C1,robusto,ro ##bust ##o,0.201,0.039,12
+C1,inseguro,ins ##egu ##ro,0.194,0.039,12
+C4,Justamente,Just ##amente,0.193,0.057,12
+C2,permanecía,per ##mane ##cía,0.191,0.043,12
+C2,inclinada,in ##clin ##ada,0.188,0.043,12
+C2,cerrada,ce ##rra ##da,0.188,0.043,12
+C4,representaba,representa ##ba,0.188,0.057,12
+C3,extendían,extend ##ían,0.187,0.04,12
+C1,estremecía,est ##reme ##cía,0.181,0.039,12
+C1,empujar,em ##pu ##jar,0.178,0.039,12
+C1,cerró,ce ##rr ##ó,0.177,0.039,12
+C1,quisiera,qui ##sier ##a,0.177,0.039,12
+C1,lloró,ll ##or ##ó,0.175,0.039,12
+C4,pared,pare ##d,0.171,0.057,12
+C1,pecho,pe ##cho,0.168,0.026,12
+C1,amenazadora,amenaza ##dora,0.167,0.026,12
+C1,puño,pu ##ño,0.158,0.026,12
+C2,miraba,mira ##ba,0.157,0.029,12
+C2,apoyó,apo ##yó,0.152,0.029,12
+C2,hoja,ho ##ja,0.149,0.029,12
+C1,llanto,ll ##anto,0.138,0.026,12
+C1,miró,mir ##ó,0.133,0.026,12
+C1,tapó,tap ##ó,0.132,0.026,12

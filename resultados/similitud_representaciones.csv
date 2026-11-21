@@ -1,0 +1,53 @@
+par,capa,coseno
+hoja (H1 vs H2),0,1.0
+hoja (H1 vs H2),1,0.9687285423278809
+hoja (H1 vs H2),2,0.9642501473426819
+hoja (H1 vs H2),3,0.9614630341529846
+hoja (H1 vs H2),4,0.9519006609916687
+hoja (H1 vs H2),5,0.928648829460144
+hoja (H1 vs H2),6,0.900810718536377
+hoja (H1 vs H2),7,0.848264217376709
+hoja (H1 vs H2),8,0.8416675329208374
+hoja (H1 vs H2),9,0.8800649642944336
+hoja (H1 vs H2),10,0.9202329516410828
+hoja (H1 vs H2),11,0.9206876158714294
+hoja (H1 vs H2),12,0.813387930393219
+banco (B1 vs B2),0,0.9639822840690613
+banco (B1 vs B2),1,0.9396536946296692
+banco (B1 vs B2),2,0.907261073589325
+banco (B1 vs B2),3,0.9028680324554443
+banco (B1 vs B2),4,0.8614218235015869
+banco (B1 vs B2),5,0.843923032283783
+banco (B1 vs B2),6,0.7988796830177307
+banco (B1 vs B2),7,0.7018353343009949
+banco (B1 vs B2),8,0.6788734793663025
+banco (B1 vs B2),9,0.751960039138794
+banco (B1 vs B2),10,0.79851233959198
+banco (B1 vs B2),11,0.851628839969635
+banco (B1 vs B2),12,0.5467351078987122
+"hoja (H1 vs C2, mismo sentido)",0,0.9642501473426819
+"hoja (H1 vs C2, mismo sentido)",1,0.9632248878479004
+"hoja (H1 vs C2, mismo sentido)",2,0.9566148519515991
+"hoja (H1 vs C2, mismo sentido)",3,0.959107518196106
+"hoja (H1 vs C2, mismo sentido)",4,0.961297869682312
+"hoja (H1 vs C2, mismo sentido)",5,0.9645310640335083
+"hoja (H1 vs C2, mismo sentido)",6,0.9562720656394958
+"hoja (H1 vs C2, mismo sentido)",7,0.9404376745223999
+"hoja (H1 vs C2, mismo sentido)",8,0.9218353033065796
+"hoja (H1 vs C2, mismo sentido)",9,0.9150912761688232
+"hoja (H1 vs C2, mismo sentido)",10,0.9152077436447144
+"hoja (H1 vs C2, mismo sentido)",11,0.9109238982200623
+"hoja (H1 vs C2, mismo sentido)",12,0.7800737619400024
+"banco (B1 vs B3, mismo sentido)",0,1.0
+"banco (B1 vs B3, mismo sentido)",1,0.9715894460678101
+"banco (B1 vs B3, mismo sentido)",2,0.9557504653930664
+"banco (B1 vs B3, mismo sentido)",3,0.9590159058570862
+"banco (B1 vs B3, mismo sentido)",4,0.9574477076530457
+"banco (B1 vs B3, mismo sentido)",5,0.9612738490104675
+"banco (B1 vs B3, mismo sentido)",6,0.9580414891242981
+"banco (B1 vs B3, mismo sentido)",7,0.9190988540649414
+"banco (B1 vs B3, mismo sentido)",8,0.8764492869377136
+"banco (B1 vs B3, mismo sentido)",9,0.8899291753768921
+"banco (B1 vs B3, mismo sentido)",10,0.9175556898117065
+"banco (B1 vs B3, mismo sentido)",11,0.9338831901550293
+"banco (B1 vs B3, mismo sentido)",12,0.7581310272216797

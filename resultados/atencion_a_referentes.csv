@@ -1,0 +1,7 @@
+oracion,desde,hacia,max_peso,capa_max,cabeza_max,peso_uniforme (1/n),rango_del_referente_en_esa_cabeza
+C1,lloró,padre,0.067,9,3,0.013,4
+C2,cual,cabeza,0.361,9,3,0.014,1
+C2,él,cuerpo,0.254,9,3,0.014,2
+C3,prolongaba,padre,0.211,10,5,0.02,2
+C4,representaba,fotografía,0.293,5,10,0.029,1
+C4,le,Gregorio,0.931,9,3,0.029,1

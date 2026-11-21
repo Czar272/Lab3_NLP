@@ -1,0 +1,38 @@
+oracion,palabra,n_piezas,piezas
+C1,cerró,3,ce ##rr ##ó
+C1,puño,2,pu ##ño
+C1,amenazadora,2,amenaza ##dora
+C1,quisiera,3,qui ##sier ##a
+C1,empujar,3,em ##pu ##jar
+C1,miró,2,mir ##ó
+C1,inseguro,3,ins ##egu ##ro
+C1,tapó,2,tap ##ó
+C1,lloró,3,ll ##or ##ó
+C1,robusto,3,ro ##bust ##o
+C1,pecho,2,pe ##cho
+C1,estremecía,3,est ##reme ##cía
+C1,llanto,2,ll ##anto
+C2,apoyó,2,apo ##yó
+C2,hoja,2,ho ##ja
+C2,permanecía,3,per ##mane ##cía
+C2,cerrada,3,ce ##rra ##da
+C2,inclinada,3,in ##clin ##ada
+C2,miraba,2,mira ##ba
+C3,vajilla,3,va ##jil ##la
+C3,desayuno,3,desa ##yu ##no
+C3,extendían,2,extend ##ían
+C3,prolongaba,3,pro ##long ##aba
+C4,Justamente,2,Just ##amente
+C4,pared,2,pare ##d
+C4,enfrente,3,en ##fre ##nte
+C4,representaba,2,representa ##ba
+S1,aclarado,3,ac ##lara ##do
+S2,Todavía,2,Toda ##vía
+S2,caía,2,ca ##ía
+S2,lluvia,2,ll ##uvia
+H2,arrancó,3,arra ##nc ##ó
+B1,aprobó,2,ap ##robó
+B1,préstamo,3,pré ##sta ##mo
+B2,senté,2,sent ##é
+B3,negó,2,ne ##gó
+B3,crédito,2,c ##rédito
